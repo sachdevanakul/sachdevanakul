@@ -41,10 +41,10 @@ Tools       : Git · Jupyter · Google Colab · Kaggle · Streamlit
 
 ### GitHub stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachdevanakul&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdevanakul&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sachdevanakul&theme=tokyonight&hide_border=true"/>
 </p>
