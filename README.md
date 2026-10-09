@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nakul 👋</h1>
 <p align="center">
-  B.Tech CSE (AI/ML Minor) · CGPA 9.56 · DRDO Software Intern · Hackathon Winner
+  B.Tech CSE (AI/ML Minor) · CGPA 9.56 · AI Intern @ Finvasia · Former DRDO Software Intern · Hackathon Winner
 </p>
 <p align="center">
   <a href="mailto:sachdevanakul813@gmail.com">sachdevanakul813@gmail.com</a> ·
