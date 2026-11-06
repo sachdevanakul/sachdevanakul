@@ -12,7 +12,7 @@
 
 ### About me
 
-Final-year Computer Science student with a minor in AI/ML, currently building a secure Electronic Document Management System at **DRDO (Terminal Ballistics Research Laboratory)**. I enjoy applying machine learning to real-world problems — from predicting telecom churn to smart urban parking. NCC 'B' Certificate holder, General Secretary of the CompuWave Club, and college cricket team captain.
+Computer Science Engineer with a minor in AI/ML, currently building a secure Electronic Document Management System at **DRDO (Terminal Ballistics Research Laboratory)**. I enjoy applying machine learning to real-world problems — from predicting telecom churn to smart urban parking. NCC 'B' Certificate holder, General Secretary of the CompuWave Club, and college cricket team captain.
 
 ---
 
